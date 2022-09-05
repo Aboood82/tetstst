@@ -17,7 +17,7 @@ Discord.Intents.FLAGS.GUILD_PRESENCES,
 const pp = "$";
 const prefix = "$";
 const TOKEN = `OTcxNDM0NzEyMTkzMjAwMTc5.GVu5Lz.EOaPQ134GtzrdgKzQ53rcXIS2Tl7kg_wprlUvQ`;
-client.login(TOKEN);
+client.login("OTcxNDM0NzEyMTkzMjAwMTc5.GVu5Lz.EOaPQ134GtzrdgKzQ53rcXIS2Tl7kg_wprlUvQ");
 
 client.on('ready', () => {
     // channel = client.channels.cache.get('977969551117520916');
