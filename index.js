@@ -35,4 +35,4 @@ client.on('ready', () => {
     })
 
 const TOKEN = "MTAxMzA4Mjg1OTY3MTY2NjcxOA.GZGc72.pBFmUmtYBQrpNdM1W0QVIAYw72EBaq91sSjeWY";
-client.login(TOKEN);
+client.login("MTAxMzA4Mjg1OTY3MTY2NjcxOA.GVcSlh.RYw2GXCGsR4n4Y3wjgbecpDourKHoLKl-vQL8A");
